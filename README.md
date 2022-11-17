@@ -16,6 +16,8 @@ Examples for training and running inference are provided in bash scripts within 
 
 If you use our code and/or ideas from our paper, please consider citing us (and the authors of our dependencies).
 
+My contact information is available in the paper if you run into any issues with the code. Alternatively, feel free to raise an issue on this repo.
+
 ### Notable Version
 The code was run using the following versions:
  - h5py==3.6.0
