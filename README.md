@@ -36,3 +36,5 @@ The code was run using the following versions:
   - [The Change that Matters in Discourse Parsing: Estimating the Impact of Domain Shift on Parser Error](https://arxiv.org/abs/2203.11317)
   - [PAC-Bayesian Domain Adaptation Bounds for Multiclass Learners](https://openreview.net/forum?id=S0lx6I8j9xq)
   - [Modeling Non-Cooperative Dialogue: Theoretical and Empirical Insights](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00507/113020/Modeling-Non-Cooperative-Dialogue-Theoretical-and)
+  - [Learning to Generate Equitable Text in Dialogue from Biased Training Data](https://github.com/anthonysicilia/equitable-dialogue-ACL2023/blob/main/README.md)
+
